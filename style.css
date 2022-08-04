@@ -1,0 +1,34 @@
+#label
+{
+    background-color: black;
+    color: aquamarine;
+    width:fit-content;
+    font-size: 33px;
+    font-style:underline;
+}
+
+#AC , #cupboard , #dining_table , #fan , #microwave , #refrigerator , #shelf , #sofa , #tv , #washing_machine 
+{
+    background-color:aquamarine;
+    color:red;
+    border-color:black;
+    border-width: 5px;
+    border-radius: 10px;
+    font-size:20px;
+}
+
+body{
+    background-size: cover;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+    background-color: white;
+    font-size: 18px;
+}
